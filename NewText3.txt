@@ -12,6 +12,6 @@ url = "http://www.sciencedirect.com/science/article/pii/S0304380016308596",
 author = "Nina Marn and Marko Jusup and Tarzan Legovi\'{c} and S.A.L.M. Kooijman and Tin Klanj\v{s}\v{c}ek",
 }
 
-ADDING SOME NEW TEXT TO THIS
+CHANGING TEXT HERE TO GET AN ERROR
 ADDING TEXT ON COPYOFNB
 
