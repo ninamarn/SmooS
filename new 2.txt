@@ -1,0 +1,13 @@
+@article{Marn2017environmental,
+title = "Environmental effects on growth, reproduction, and life-history traits of loggerhead turtles ",
+journal = "Ecological Modelling ",
+volume = "360",
+number = "",
+pages = "163 - 178",
+year = "2017",
+note = "",
+issn = "0304-3800",
+doi = "https://doi.org/10.1016/j.ecolmodel.2017.07.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0304380016308596",
+author = "Nina Marn and Marko Jusup and Tarzan Legovi\'{c} and S.A.L.M. Kooijman and Tin Klanj\v{s}\v{c}ek",
+}
