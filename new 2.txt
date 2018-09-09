@@ -10,3 +10,6 @@ And than also this. Instead of three, there shall be one.
 
 That is all.
 
+
+/* Addendum to the addendum: the previous text should be deleted. */
+
